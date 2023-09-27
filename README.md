@@ -50,6 +50,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
  - We choose the Lasso Regression model as it achieves similar accuracy with fewer variables, making it a more efficient choice compared to the Ridge regression model
  - Based on the r2_score of the 3 models, we can see that their r2_scores are almost similar, as such it is better to go for the simplest model. In this case it would be better to go with Lasso as it panalizes the variables, and helps in feature selection.
 - Optimal value of alpha for Ridge regression : 1.0
+- Optimal value of alpha for Lasso regression : 0.0001
 - Upon examining the above models, it's apparent that there exists minimal correlation between the Residual and Predicted Value, aligning with our model's expectation of displaying no discernible pattern:
 
 > **The company wants to know:**
