@@ -38,8 +38,9 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 > Feature Selection
 > Train Test Split,
 > Training the model,
-> linear regression
-> Advance regeression
+
+- Linear regression
+- Advance regeression
   - Ridge
   - Lasso 
 
